@@ -2,7 +2,7 @@
 Estudiante de Pregrado.
 Kevin Gutierrez M.
 20 años.
-COD. 202510627
+Código. 202510627
 Universidad Pedagogica y Tecnologica de Colombia (UPTC)
 Seccional Sogamoso.
 ## Sobre mi

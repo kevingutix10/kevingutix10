@@ -16,3 +16,8 @@ Escribeme y con gusto respondere tu mensaje!
 Email: kevin.gutierrez04@uptc.edu.co
 Gracias ;)
 ...
+## Technologies
+- Pseint
+- Html
+- Git
+- GitHub

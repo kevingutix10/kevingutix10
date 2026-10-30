@@ -7,7 +7,7 @@ Universidad Pedagogica y Tecnologica de Colombia (UPTC)
 Seccional Sogamoso.
 ## Sobre mi
 Me gusta mucho aprender, motivado por la tecnologia y con ganas de conocer los avances tecnologicos del futuro, tengo un interes por el desarrollo de la IA.
-He aprendido pseudocodigo por medio de Pseint, también manejo herramientas como Git y GitHub.
+He aprendido pseudocodigo por medio de Pseint, POO en Java, también manejo herramientas como Git y GitHub.
 Decicidi estudiar esta carrera por gusto al software y, para trabajar en grandes ideas y proyectos a futuro.
 ## Trabajemos juntos
 Estaria encantado de proyectar mis ideas y trabajar en equipo para la creacion de software y la solucion de problemas!
